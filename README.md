@@ -2,7 +2,7 @@
 
 BMSINSTALLER - автоустановщик Black Mesa и Xen в Synergy
 
-## Chat
+## Steam
 
 * [SteamCommunity](https://steamcommunity.com/sharedfiles/filedetails/?id=1917470283)
 * [Steam Profile](https://steamcommunity.com/id/theluxifer2022/)
