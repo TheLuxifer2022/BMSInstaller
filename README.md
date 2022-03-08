@@ -1,4 +1,4 @@
-# ![] BMSINSTALLER
+# BMSINSTALLER
 
 BMSINSTALLER - автоустановщик Black Mesa и Xen в Synergy
 
